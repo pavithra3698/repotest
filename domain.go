@@ -1,3 +1,4 @@
+#comment
 package libvirt
 
 import (
